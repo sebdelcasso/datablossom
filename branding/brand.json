@@ -1,0 +1,15 @@
+{
+  "name": "Datablossom",
+  "handle": "@datablossom",
+  "tagline": "Quand les données fleurissent",
+  "cta": "Abonne-toi pour voir la data éclore",
+  "font": "Segoe UI",
+  "colors": {
+    "bg": "#0F1412",
+    "fg": "#F5F1EA",
+    "muted": "#98A398",
+    "accent": "#F9A8C9",
+    "palette": ["#F9A8C9", "#86EFAC", "#FCD34D", "#C4B5FD", "#5EEAD4",
+                "#FDBA74", "#93C5FD", "#FB7185", "#BEF264", "#E9D5FF"]
+  }
+}
